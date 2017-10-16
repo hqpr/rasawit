@@ -154,3 +154,6 @@ crashlytics-build.properties
 fabric.properties
 
 database.db.db
+.idea/inspectionProfiles/
+.idea/vcs.xml
+logs/
