@@ -1,0 +1,259 @@
+{
+  "data" : [
+    {
+      "text" : "Can I have Bay my fines",
+      "entities" : [
+        {
+          "entity" : "action",
+          "value" : "\"Bay \"",
+          "start" : 11,
+          "end" : 15
+        },
+        {
+          "entity" : "tobe",
+          "value" : "\"pay\"",
+          "start" : 18,
+          "end" : 24
+        }
+      ]
+    },
+    {
+      "text" : "Hallo"
+    },
+    {
+      "text" : "Hello"
+    },
+    {
+      "text" : "Hey"
+    },
+    {
+      "text" : "Hey"
+    },
+    {
+      "text" : "Hey, Hello Hallo"
+    },
+    {
+      "text" : "Hi"
+    },
+    {
+      "text" : "I want to file a complaint",
+      "entities" : [
+        {
+          "entity" : "complaint",
+          "value" : "\"complaint\"",
+          "start" : 17,
+          "end" : 26
+        }
+      ]
+    },
+    {
+      "text" : "bay fine",
+      "entities" : [
+        {
+          "entity" : "action",
+          "value" : "\"Bay \"",
+          "start" : 0,
+          "end" : 3
+        },
+        {
+          "entity" : "tobe",
+          "value" : "\"fine\"",
+          "start" : 7,
+          "end" : 8
+        }
+      ]
+    },
+    {
+      "text" : "can i pay me fines ?",
+      "entities" : [
+        {
+          "entity" : "action",
+          "value" : "\"pay \"",
+          "start" : 6,
+          "end" : 10
+        },
+        {
+          "entity" : "tobe",
+          "value" : "\"pay\"",
+          "start" : 13,
+          "end" : 19
+        }
+      ]
+    },
+    {
+      "text" : "correct",
+      "entities" : [
+        {
+          "entity" : "postive",
+          "value" : "\"correct\"",
+          "start" : 0,
+          "end" : 7
+        }
+      ]
+    },
+    {
+      "text" : "hello hallo hi hey",
+      "entities" : [
+        {
+          "entity" : "greeting",
+          "value" : "\"hello\"",
+          "start" : 0,
+          "end" : 5
+        },
+        {
+          "entity" : "greeting",
+          "value" : "\"hallo \"",
+          "start" : 6,
+          "end" : 12
+        },
+        {
+          "entity" : "greeting",
+          "value" : "\"hi\"",
+          "start" : 13,
+          "end" : 15
+        },
+        {
+          "entity" : "greeting",
+          "value" : "\"hey\"",
+          "start" : 16,
+          "end" : 19
+        }
+      ]
+    },
+    {
+      "text" : "hey"
+    },
+    {
+      "text" : "hi"
+    },
+    {
+      "text" : "i need to pay my tax",
+      "entities" : [
+        {
+          "entity" : "action",
+          "value" : "\"pay \"",
+          "start" : 10,
+          "end" : 13
+        },
+        {
+          "entity" : "tobe",
+          "value" : "\"tax\"",
+          "start" : 17,
+          "end" : 20
+        }
+      ]
+    },
+    {
+      "text" : "i want to inquire about my fines",
+      "entities" : [
+        {
+          "entity" : "action",
+          "value" : "\"inquire \"",
+          "start" : 10,
+          "end" : 18
+        },
+        {
+          "entity" : "tobe",
+          "value" : "\"fines\"",
+          "start" : 27,
+          "end" : 32
+        }
+      ]
+    },
+    {
+      "text" : "i want to know my fines",
+      "entities" : [
+        {
+          "entity" : "action",
+          "value" : "\"know \"",
+          "start" : 10,
+          "end" : 15
+        },
+        {
+          "entity" : "tobe",
+          "value" : "\"fines\"",
+          "start" : 18,
+          "end" : 23
+        }
+      ]
+    },
+    {
+      "text" : "let me pay my fine please",
+      "entities" : [
+        {
+          "entity" : "action",
+          "value" : "\"pay \"",
+          "start" : 7,
+          "end" : 10
+        },
+        {
+          "entity" : "tobe",
+          "value" : "\"fines\"",
+          "start" : 14,
+          "end" : 19
+        }
+      ]
+    },
+    {
+      "text" : "my number 0987234837234",
+      "entities" : [
+        {
+          "entity" : "phone_number",
+          "value" : "\"0987234837234\"",
+          "start" : 10,
+          "end" : 23
+        }
+      ]
+    },
+    {
+      "text" : "py my fine",
+      "entities" : [
+        {
+          "entity" : "action",
+          "value" : "\"py\"",
+          "start" : 0,
+          "end" : 2
+        },
+        {
+          "entity" : "tobe",
+          "value" : "\"fine\"",
+          "start" : 6,
+          "end" : 10
+        }
+      ]
+    },
+    {
+      "text" : "thanks",
+      "entities" : [
+        {
+          "entity" : "thanks",
+          "value" : "\"thanks \"",
+          "start" : 0,
+          "end" : 7
+        }
+      ]
+    },
+    {
+      "text" : "yeah",
+      "entities" : [
+        {
+          "entity" : "postive",
+          "value" : "\"yeah\"",
+          "start" : 0,
+          "end" : 4
+        }
+      ]
+    },
+    {
+      "text" : "yes",
+      "entities" : [
+        {
+          "entity" : "postive",
+          "value" : "\"yes\"",
+          "start" : 0,
+          "end" : 3
+        }
+      ]
+    }
+  ]
+}

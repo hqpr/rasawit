@@ -157,3 +157,4 @@ database.db.db
 .idea/inspectionProfiles/
 .idea/vcs.xml
 logs/
+default/

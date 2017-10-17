@@ -1,5 +1,5 @@
 {
   "pipeline": "spacy_sklearn",
-  "path" : ".",
-  "data" : "expressions.json"
+  "path" : "",
+  "data" : "new.json"
 }
