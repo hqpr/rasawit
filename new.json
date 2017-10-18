@@ -8,13 +8,9 @@
     ],
     "entity_synonyms": [
       {
-        "value": "chinese",
-        "synonyms": ["Chinese", "Chines", "chines"]
+        "value": "fine",
+        "synonyms": ["fines", "fine"]
       },
-      {
-        "value": "vegetarian",
-        "synonyms": ["veggie", "vegg"]
-      }
     ],
     "common_examples": [
       {
@@ -79,7 +75,7 @@
       },
       {
         "text": "that's right",
-        "intent": "postive",
+        "intent": "positive",
         "entities": []
       },
       {
